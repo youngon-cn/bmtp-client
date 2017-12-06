@@ -1,0 +1,29 @@
+{
+  "name": "bmtp-client",
+  "version": "0.1.0",
+  "description": "bmtp协议客户端，可用于下载确然vod系统（邦丰播放器）的视频",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "bmtp",
+    "vod",
+    "确然",
+    "邦丰"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/youngon-cn/bmtp-client.git"
+  },
+  "author": {
+    "name": "F-loat",
+    "email": "chaimaoyuan@foxmail.com"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.4.19"
+  },
+  "devDependencies": {
+    "progress": "^2.0.0"
+  }
+}
